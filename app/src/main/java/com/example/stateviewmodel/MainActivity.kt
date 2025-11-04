@@ -86,7 +86,7 @@ fun NutritionFormScreen(
         verticalArrangement = Arrangement.spacedBy(16.dp),
     ) {
         Text(
-            text = "Catat Gizi Harian",
+            text = "Catat Gizi Harian Anda",
             style = MaterialTheme.typography.headlineSmall.copy(fontWeight = FontWeight.Bold),
         )
         Text(
